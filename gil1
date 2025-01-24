@@ -19,7 +19,6 @@ pids
 lib-cov
 
 # Coverage directory used by tools like istanbul
-coverage
 *.lcov
 
 # nyc test coverage
@@ -112,7 +111,6 @@ pycache/
 # Ignore .husky for new contributors using lefthook while maintaining
 # backwards compatibility for past contributors
 .husky
-
 
 # VSCode
 .vscode/launch.json
